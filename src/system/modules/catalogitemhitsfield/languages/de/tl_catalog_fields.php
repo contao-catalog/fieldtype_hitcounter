@@ -19,5 +19,5 @@
  * @filesource
  */
  
-$GLOBALS['TL_LANG']['tl_catalog_fields']['typeOptions']['ajaxratingfield'] = "Hit counter";
+$GLOBALS['TL_LANG']['tl_catalog_fields']['typeOptions']['hitsfield'] = "Zugriffszähler";
 ?>

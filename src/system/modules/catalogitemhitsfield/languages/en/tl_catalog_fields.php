@@ -14,10 +14,10 @@
  * PHP version 5
  * @copyright  Christian Schiffler 2009
  * @author     Christian Schiffler <c.schiffler@cyberspectrum.de>
- * @package    CatalogAjaxRatingField
+ * @package    CatalogHitsField
  * @license    GPL
  * @filesource
  */
  
-$GLOBALS['TL_LANG']['tl_catalog_fields']['typeOptions']['ajaxratingfield'] = "Hit counter";
+$GLOBALS['TL_LANG']['tl_catalog_fields']['typeOptions']['hitsfield'] = "Hit counter";
 ?>

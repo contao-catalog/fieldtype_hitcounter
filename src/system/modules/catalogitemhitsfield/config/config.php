@@ -10,14 +10,14 @@
  * CSS engine, multi-language support and many more. For more information and 
  * additional TYPOlight applications like the TYPOlight MVC Framework please 
  * visit the project website http://www.typolight.org.
- *
- * This is the catalog catalogajaxratingfield extension configuration file.
- *
+ * 
+ * This is the catalog catalogitemhitsfield extension configuration file.
+ * 
  * PHP version 5
  * @copyright  Christian Schiffler 2009
  * @author     Christian Schiffler  <c.schiffler@cyberspectrum.de> 
  * @package    CatalogHitsField
- * @license    GPL 
+ * @license    LGPL 
  * @filesource
  */
 
@@ -29,7 +29,7 @@
 // Register field type editor to catalog module.
 $GLOBALS['BE_MOD']['content']['catalog']['fieldTypes']['hitsfield'] = array
 (
-	'typeimage'    => 'system/modules/catalogajaxratingfield/html/hitsfield.gif',
+	'typeimage'    => 'system/modules/catalogitemhitsfield/html/hitsfield.gif',
 	'fieldDef'     => array
 	(
 		// hopefully never ever someone will add a widget with that name. 
