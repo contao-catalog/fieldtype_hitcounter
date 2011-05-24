@@ -26,4 +26,4 @@ CREATE TABLE `tl_catalog_hitcounter` (
 -- time when this hit occured
   `time` int(10) unsigned NOT NULL default '0',
   PRIMARY KEY  (`id`)
-) TYPE=MyISAM DEFAULT CHARSET=utf8;
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
